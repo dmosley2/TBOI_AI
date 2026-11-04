@@ -1,0 +1,5 @@
+# Install the CPU build of PyTorch first (see README), then:
+numpy
+gymnasium
+stable-baselines3
+tensorboard

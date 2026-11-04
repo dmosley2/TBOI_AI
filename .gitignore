@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Training outputs (models, checkpoints, TensorBoard logs, skill tables).
+# Large and reproducible; share results via releases or the README instead.
+runs/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
